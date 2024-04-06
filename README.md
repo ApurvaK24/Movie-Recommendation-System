@@ -11,3 +11,11 @@ There are several approaches to building movie recommendation systems:<br />
 
 Data -> Data Preprocessing -> Feature Extraction -> User Input -> Cosine Similarities -> List of Movies
 
+# What I used?
+Used various python libraries like pandas, numpy, sklearn, etc.<br />
+Used streamlit for GUI.<br />
+Command: streamlit run app.py<br />
+
+# Snippets
+![alt text](1.png)
+![alt text](2.png)
